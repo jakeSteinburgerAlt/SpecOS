@@ -2,7 +2,7 @@ name: locbadge
 run-name: Create lines of code badge
 on: [push]
 jobs:
-  check-bats-version:
+  make-loc:
     runs-on: ubuntu-latest
     steps:
       - name: Lines of Code Badge
