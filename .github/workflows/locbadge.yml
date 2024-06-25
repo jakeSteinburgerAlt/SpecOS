@@ -1,4 +1,4 @@
-            - name: Lines of Code Badge
+- name: Lines of Code Badge
   # You may pin to the exact commit or the version.
   # uses: shadowmoose/GHA-LoC-Badge@8c8191e02ebe2e4b4764f4711228bddcaeb88f19
   uses: shadowmoose/GHA-LoC-Badge@1.0.0
